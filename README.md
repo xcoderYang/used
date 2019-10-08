@@ -3,8 +3,8 @@ something frequently used
 
   website:
 
-    Passwords safe:
+  Passwords safe:
   
-      * [abc](https://haveibeenpwned.com/)
+  * [abc](https://haveibeenpwned.com/)
     
-      + [def](https://www.npmjs.com/signup/common-passwords)
+  + [def](https://www.npmjs.com/signup/common-passwords)
