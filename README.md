@@ -4,6 +4,6 @@ something frequently used
   website :
   
   - Passwords safe :
-    * [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
+    * <a href="https://haveibeenpwned.com/" target="_blank">https://haveibeenpwned.com/</a>
     
-    * [https://www.npmjs.com/signup/common-passwords](https://www.npmjs.com/signup/common-passwords)
+    * <a href="https://www.npmjs.com/signup/common-passwords" target="_blank">https://www.npmjs.com/signup/common-passwords</a>
